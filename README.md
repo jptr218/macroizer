@@ -1,0 +1,2 @@
+# macroizer
+Automate repetitive tasks
